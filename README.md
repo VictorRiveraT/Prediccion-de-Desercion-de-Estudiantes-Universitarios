@@ -12,7 +12,7 @@ El objetivo es construir desde cero un modelo de clasificación binaria capaz de
 |---|---|
 | Matias Alfredo Vidal Elliot | — |
 | Victor Daniel Rivera Torres | [@VictorRiveraT](https://github.com/VictorRiveraT) |
-| Jesús Anselmo Morales Alvarado | — |
+| Jesús Anselmo Morales Alvarado | [@jessusmorales](https://github.com/jessusmorales) |
 
 **Docentes:** Mg. Josue Angel Mauricio Salazar · Lic. Jeremy Karsen Holguin Mori
 
