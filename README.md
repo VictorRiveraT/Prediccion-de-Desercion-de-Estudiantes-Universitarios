@@ -27,7 +27,7 @@ Prediccion-de-Desercion-de-Estudiantes-Universitarios/
 │   └── data.csv                  # Dataset original (UCI Repository)
 │
 ├── notebooks/
-│   └── Avance_Parcial.ipynb   # Notebook principal con EDA, modelo y evaluación
+│   └── Avance_Parcial.ipynb      # Notebook principal con EDA, modelo y evaluación
 │
 ├── informe/
 │   └── Informe_Parcial.pdf       # Informe parcial (Introducción, Estado del Arte, Metodología)
