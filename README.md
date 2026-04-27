@@ -66,7 +66,7 @@ El pipeline es el siguiente:
 
 ---
 
-## 📈 Resultados preliminares
+## Resultados preliminares
 
 > *Se actualizará con los resultados finales del modelo.*
 
