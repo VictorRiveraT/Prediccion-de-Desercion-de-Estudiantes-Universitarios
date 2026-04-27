@@ -10,7 +10,7 @@ El objetivo es construir desde cero un modelo de clasificación binaria capaz de
 
 | Nombre | GitHub |
 |---|---|
-| Matias Alfredo Vidal Elliot | — |
+| Matias Alfredo Vidal Elliot | [@matvilliot](https://github.com/matvilliot) |
 | Victor Daniel Rivera Torres | [@VictorRiveraT](https://github.com/VictorRiveraT) |
 | Jesús Anselmo Morales Alvarado | [@jessusmorales](https://github.com/jessusmorales) |
 
